@@ -15,11 +15,7 @@ I am an aspiring **Flutter Developer** passionate about building beautiful, high
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serdar0000&show_icons=true&theme=tokyonight" width="400" alt="Serdar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar0000&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
-</p>
+
 
 ### 🐍 Contribution Snake
 <picture>
