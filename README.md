@@ -17,16 +17,20 @@ I am an aspiring **Flutter Developer** passionate about building beautiful, high
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serdar0000&show_icons=true&theme=tokyonight" alt="Serdar's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar0000&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Serdar0000&show_icons=true&theme=tokyonight" width="400" alt="Serdar's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar0000&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/Serdar0000/Serdar0000/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serdar0000/Serdar0000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Serdar0000/Serdar0000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Serdar0000/Serdar0000/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_LINK" target="blank">
+  <a href="https://t.me/serdarsq" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/Serdar0000" target="blank">
