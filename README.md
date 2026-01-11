@@ -17,19 +17,19 @@ I am an aspiring **Flutter Developer** passionate about building beautiful, high
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Serdar's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Serdar0000&show_icons=true&theme=tokyonight" alt="Serdar's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar0000&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </p>
 
 ### 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Serdar0000/Serdar0000/output/github-contribution-grid-snake.svg)
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM" target="blank">
+  <a href="https://t.me/YOUR_TELEGRAM_LINK" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+  <a href="https://github.com/Serdar0000" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
