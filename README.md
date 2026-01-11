@@ -1,8 +1,8 @@
+
+# Hi, I'm Serdar! 👋
 <p align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/naruto-itachi-uchiha-rain-gif-desktop-wallpaper-preview.gif" width="100%" />
 </p>
-# Hi, I'm Serdar! 👋
-
 ### 🚀 About Me
 I am an aspiring **Flutter Developer** passionate about building beautiful, high-performance mobile applications. I enjoy turning complex problems into simple, elegant code.
 
