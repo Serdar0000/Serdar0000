@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/naruto-itachi-uchiha-rain-gif-desktop-wallpaper-preview.gif" width="100%" />
+</p>
 # Hi, I'm Serdar! 👋
 
 ### 🚀 About Me
