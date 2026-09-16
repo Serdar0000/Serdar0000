@@ -66,15 +66,6 @@ I enjoy turning complex problems into simple, elegant code.
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    width="100%"
-    alt="GitHub Metrics"
-  />
-</p>
 
 ---
 
